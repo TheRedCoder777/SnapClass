@@ -438,14 +438,4 @@ Potential future improvements include:
 
 ## 👨‍💻 Author
 
-**Sahil Samir Ahire**
-
-B.Tech — Computer Science (Artificial Intelligence & Analytics)
-
----
-
-## 📄 License
-
-This project is intended for educational and demonstration purposes.
-
-Add an appropriate open-source license if the project is intended to be publicly distributed or reused.
+**Riya Jain**
