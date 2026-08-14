@@ -436,6 +436,6 @@ Potential future improvements include:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Project Author
 
 **Riya Jain**
